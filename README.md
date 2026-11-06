@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Dafa Dwi Andika - Portofolio" width="100%"/>
+<img src="header.svg" alt="Dafa Dwi Andika - Portofolio" width="100%"/>
 
 <br/>
 
@@ -23,7 +23,7 @@ Tanpa framework. Tanpa dependensi. Cukup buka `index.html` dan semuanya hidup.
 
 <br/>
 
-<img src="assets/marquee.svg" alt="Kepemimpinan, Administrasi, Front End, Analisis Kritis, Komunikasi, Ketelitian, Olimpiade, Bahasa Inggris, Sempoa, Ranking 1" width="100%"/>
+<img src="marquee.svg" alt="Kepemimpinan, Administrasi, Front End, Analisis Kritis, Komunikasi, Ketelitian, Olimpiade, Bahasa Inggris, Sempoa, Ranking 1" width="100%"/>
 
 </div>
 
@@ -37,7 +37,7 @@ Tanpa framework. Tanpa dependensi. Cukup buka `index.html` dan semuanya hidup.
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Tentang Proyek
 
@@ -57,21 +57,21 @@ Seluruh efeknya (latar konstelasi, kursor kustom, foto 3D, confetti, dan lain-la
 </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Preview
 
-> 📸 Letakkan tangkapan layar di folder `assets/` lalu ganti jalur gambar di bawah ini.
+> 📸 Letakkan tangkapan layar di folder utama repo (sejajar dengan `index.html`) lalu ganti jalur gambar di bawah ini.
 
 <div align="center">
 
 | 🌙 Mode Gelap | ☀️ Mode Terang |
 |:---:|:---:|
-| <img src="assets/preview-dark.png" alt="Tampilan mode gelap" width="400"/> | <img src="assets/preview-light.png" alt="Tampilan mode terang" width="400"/> |
+| <img src="preview-dark.png" alt="Tampilan mode gelap" width="400"/> | <img src="preview-light.png" alt="Tampilan mode terang" width="400"/> |
 
 | 📱 Tampilan HP | 🏆 Section Prestasi |
 |:---:|:---:|
-| <img src="assets/preview-mobile.png" alt="Tampilan di HP" width="200"/> | <img src="assets/preview-prestasi.png" alt="Section prestasi" width="400"/> |
+| <img src="preview-mobile.png" alt="Tampilan di HP" width="200"/> | <img src="preview-prestasi.png" alt="Section prestasi" width="400"/> |
 
 </div>
 
@@ -82,15 +82,15 @@ Seluruh efeknya (latar konstelasi, kursor kustom, foto 3D, confetti, dan lain-la
 
 1. Buka website di browser, lalu rekam layar dengan **ScreenToGif** (Windows) atau **Kap** (macOS).
 2. Rekam sekitar 10 sampai 15 detik: preloader, efek acak nama, scroll, filter prestasi, ganti tema.
-3. Simpan sebagai `assets/demo.gif`, lalu tambahkan baris ini di README:
+3. Simpan sebagai `demo.gif`, lalu tambahkan baris ini di README:
 
 ```markdown
-<img src="assets/demo.gif" alt="Demo website" width="100%"/>
+<img src="demo.gif" alt="Demo website" width="100%"/>
 ```
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Fitur Unggulan
 
@@ -172,7 +172,7 @@ Teks dari data juga dilewatkan fungsi `escapeHtml()` sebelum masuk ke HTML supay
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Isi Website
 
@@ -209,7 +209,7 @@ flowchart LR
 | 7 | 🏆 **Prestasi** | `#proj` | Sorotan utama dan etalase 38 prestasi dengan filter dan pencarian |
 | 8 | 📬 **Kontak** | `#contact` | Email, WhatsApp, tombol salin, dan formulir pesan |
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Statistik Prestasi
 
@@ -266,7 +266,7 @@ pie showData title Prestasi per Kategori
 </tr>
 </table>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Teknologi
 
@@ -310,21 +310,20 @@ pie showData title Prestasi per Kategori
 | ![](https://img.shields.io/badge/%20%20%20%20%20-c7d1e8-c7d1e8?style=flat-square) | Teks isi | `#c7d1e8` | `#2c3a5c` |
 | ![](https://img.shields.io/badge/%20%20%20%20%20-f2f5fb-f2f5fb?style=flat-square) | Judul | `#f2f5fb` | `#0a1330` |
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Struktur Proyek
 
 ```text
 📦 portofolio
- ┣ 📂 assets            ← gambar dan SVG animasi untuk README
- ┃ ┣ 🎞️ header.svg
- ┃ ┣ 🎞️ divider.svg
- ┃ ┣ 🎞️ marquee.svg
- ┃ ┗ 🎞️ footer.svg
  ┣ 📜 index.html        ← struktur dan konten halaman
  ┣ 🎨 style.css         ← tema, layout, dan semua animasi CSS
  ┣ ⚙️ script.js         ← logika interaktif dan data prestasi
  ┣ 🖼️ foto.jpeg         ← foto profil (opsional, ada fallback inisial "DA")
+ ┣ 🎞️ header.svg        ← animasi untuk README
+ ┣ 🎞️ divider.svg
+ ┣ 🎞️ marquee.svg
+ ┣ 🎞️ footer.svg
  ┗ 📖 README.md
 ```
 
@@ -352,7 +351,7 @@ sequenceDiagram
     J->>P: Filter, confetti, toast, tilt 3D
 ```
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Cara Menjalankan
 
@@ -384,7 +383,7 @@ Buka `http://localhost:8000` di browser.
 
 > ℹ️ Font Google Fonts butuh koneksi internet. Tanpa internet, website tetap jalan dengan font cadangan (Georgia dan system-ui).
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Kustomisasi
 
@@ -508,7 +507,7 @@ Kecilkan angka `90` jika ingin lebih ringan di perangkat lama.
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Deploy Gratis
 
@@ -540,7 +539,7 @@ Karena website ini statis, semua layanan di bawah bisa dipakai tanpa konfigurasi
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Easter Egg
 
@@ -565,7 +564,7 @@ Ada satu lagi yang lebih mudah ditemukan: coba **klik segel nilai** di samping f
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Roadmap
 
@@ -582,7 +581,7 @@ Ada satu lagi yang lebih mudah ditemukan: coba **klik segel nilai** di samping f
 - [ ] Tautan GitHub dan LinkedIn di bagian kontak
 - [ ] Skor Lighthouse 100 untuk semua kategori
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="divider.svg" alt="" width="100%"/>
 
 ## ✦ Kontak
 
@@ -607,7 +606,7 @@ Kode di repositori ini dilisensikan di bawah **MIT License**, jadi kamu bebas be
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="Terima kasih sudah berkunjung" width="100%"/>
+<img src="footer.svg" alt="Terima kasih sudah berkunjung" width="100%"/>
 
 <br/>
 
