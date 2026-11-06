@@ -10,7 +10,7 @@ Tanpa framework. Tanpa dependensi. Cukup buka `index.html` dan semuanya hidup.
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/%E2%9C%A6_LIVE_DEMO-Buka_Website-d4af62?style=for-the-badge&labelColor=0a1330)](https://dfandkaa.github.io/REPO/)
+[![Live Demo](https://img.shields.io/badge/%E2%9C%A6_LIVE_DEMO-Buka_Website-d4af62?style=for-the-badge&labelColor=0a1330)](https://dfandkaa.github.io/portofolio/)
 [![Lisensi](https://img.shields.io/badge/LISENSI-MIT-6f8fe0?style=for-the-badge&labelColor=0a1330)](#-lisensi)
 [![Dependensi](https://img.shields.io/badge/DEPENDENSI-0-f0dba5?style=for-the-badge&labelColor=0a1330)](#-teknologi)
 
@@ -360,8 +360,8 @@ sequenceDiagram
 
 ```bash
 # Clone repositori
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/dfandkaa/portofolio.git
+cd portofolio
 
 # Lalu klik dua kali index.html, selesai.
 ```
@@ -520,7 +520,7 @@ Kecilkan angka `90` jika ingin lebih ringan di perangkat lama.
 4. Tunggu satu sampai dua menit. Website aktif di:
 
 ```text
-https://USERNAME.github.io/REPO/
+https://dfandkaa.github.io/portofolio/
 ```
 
 5. Salin tautan itu ke badge **LIVE DEMO** di bagian paling atas README ini.
