@@ -59,39 +59,6 @@ Seluruh efeknya (latar konstelasi, kursor kustom, foto 3D, confetti, dan lain-la
 
 <img src="divider.svg" alt="" width="100%"/>
 
-## ✦ Preview
-
-> 📸 Letakkan tangkapan layar di folder utama repo (sejajar dengan `index.html`) lalu ganti jalur gambar di bawah ini.
-
-<div align="center">
-
-| 🌙 Mode Gelap | ☀️ Mode Terang |
-|:---:|:---:|
-| <img src="preview-dark.png" alt="Tampilan mode gelap" width="400"/> | <img src="preview-light.png" alt="Tampilan mode terang" width="400"/> |
-
-| 📱 Tampilan HP | 🏆 Section Prestasi |
-|:---:|:---:|
-| <img src="preview-mobile.png" alt="Tampilan di HP" width="200"/> | <img src="preview-prestasi.png" alt="Section prestasi" width="400"/> |
-
-</div>
-
-<details>
-<summary><b>🎬 Cara cepat membuat GIF demo (klik untuk buka)</b></summary>
-
-<br/>
-
-1. Buka website di browser, lalu rekam layar dengan **ScreenToGif** (Windows) atau **Kap** (macOS).
-2. Rekam sekitar 10 sampai 15 detik: preloader, efek acak nama, scroll, filter prestasi, ganti tema.
-3. Simpan sebagai `demo.gif`, lalu tambahkan baris ini di README:
-
-```markdown
-<img src="demo.gif" alt="Demo website" width="100%"/>
-```
-
-</details>
-
-<img src="divider.svg" alt="" width="100%"/>
-
 ## ✦ Fitur Unggulan
 
 Klik tiap bagian untuk melihat detailnya.
