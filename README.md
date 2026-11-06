@@ -10,7 +10,7 @@ Tanpa framework. Tanpa dependensi. Cukup buka `index.html` dan semuanya hidup.
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/%E2%9C%A6_LIVE_DEMO-Buka_Website-d4af62?style=for-the-badge&labelColor=0a1330)](https://USERNAME.github.io/REPO/)
+[![Live Demo](https://img.shields.io/badge/%E2%9C%A6_LIVE_DEMO-Buka_Website-d4af62?style=for-the-badge&labelColor=0a1330)](https://dfandkaa.github.io/REPO/)
 [![Lisensi](https://img.shields.io/badge/LISENSI-MIT-6f8fe0?style=for-the-badge&labelColor=0a1330)](#-lisensi)
 [![Dependensi](https://img.shields.io/badge/DEPENDENSI-0-f0dba5?style=for-the-badge&labelColor=0a1330)](#-teknologi)
 
